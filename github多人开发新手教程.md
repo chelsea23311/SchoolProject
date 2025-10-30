@@ -55,7 +55,7 @@
 
 ```bash
     git checkout -b login-feature  # 新建并切换到该分支
-    ```
+ ```
 
   合作者 B 负责注册功能，类似创建 `register-feature` 分支。
 
